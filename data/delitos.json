@@ -2,13 +2,13 @@
     "Hoja1": [
         {
             "Nombre": "Leslye Carol Lazo Villón",
-            "Partido Morado": "Acción Popular",
+            "Partido": "Acción Popular",
             "Delitos": "Apropiación ilícita común",
             "Región": "Lima"
         },
         {
             "Nombre": "Ricardo Miguel Burga Chuquipiondo",
-            "Partido Morado": "Acción Popular",
+            "Partido": "Acción Popular",
             "Delitos": [
                 "Apropiación ilícita",
                 "Prescripción adquisitiva",
@@ -19,25 +19,25 @@
         },
         {
             "Nombre": "Paul Gabriel García Oviedo",
-            "Partido Morado": "Acción Popular",
+            "Partido": "Acción Popular",
             "Delitos": "Hurto agravado (casa-habitada)",
             "Región": "Callao"
         },
         {
             "Nombre": "Rolando Campos Villalobos",
-            "Partido Morado": "Acción Popular",
+            "Partido": "Acción Popular",
             "Delitos": "Estafa",
             "Región": "Lambayeque"
         },
         {
             "Nombre": "Hans Troyes Delgado",
-            "Partido Morado": "Acción Popular",
+            "Partido": "Acción Popular",
             "Delitos": "Peculado",
             "Región": "Cajamarca"
         },
         {
             "Nombre": "Manuel Aguilar Zamora",
-            "Partido Morado": "Acción Popular",
+            "Partido": "Acción Popular",
             "Delitos": [
                 "Delitos contra la voluntad popular",
                 "Robo agravado",
@@ -47,13 +47,13 @@
         },
         {
             "Nombre": "Rolando Rubén Ruíz Pinedo",
-            "Partido Morado": "Acción Popular",
+            "Partido": "Acción Popular",
             "Delitos": "Concusión",
             "Región": "San Martín"
         },
         {
             "Nombre": "Luis Carlos Simeón Hurtado",
-            "Partido Morado": "Acción Popular",
+            "Partido": "Acción Popular",
             "Delitos": [
                 "Estafa",
                 "Maltrato psicológico"
@@ -62,888 +62,626 @@
         },
         {
             "Nombre": "Jorge Vásquez Becerra",
-            "Partido Morado": "Acción Popular",
-            "Delitos": "Contra la paz pública",
+            "Partido": "Acción Popular",
+            "Delitos": [
+                "Contra la paz pública",
+                "Violencia y resistencia a la autoridad"
+            ],
             "Región": "Cusco"
         },
         {
-            "Delitos": "Violencia y resistencia a la autoridad"
-        },
-        {
             "Nombre": "Jesus Orlando Arapa Roque",
-            "Partido Morado": "Acción Popular",
-            "Delitos": "Maltrato físico ",
+            "Partido": "Acción Popular",
+            "Delitos": [
+                "Maltrato físico ",
+                "Maltrato psicológico"
+            ],
             "Región": "Puno"
         },
         {
-            "Delitos": "Maltrato psicológico"
-        },
-        {
             "Nombre": "Otto Napoleon Guibovich Arteaga",
-            "Partido Morado": "Acción Popular",
-            "Delitos": "Corrupción de funcionarios",
+            "Partido": "Acción Popular",
+            "Delitos": [
+                "Corrupción de funcionarios",
+                "Contra la paz pública"
+            ],
             "Región": "Áncash"
         },
         {
-            "Delitos": "Contra la paz pública"
-        },
-        {
             "Nombre": "Carlos Andrés Pérez Ochoa",
-            "Partido Morado": "Acción Popular",
-            "Delitos": "Delitos cometidos por funcionarios públicos",
+            "Partido": "Acción Popular",
+            "Delitos": [
+                "Delitos cometidos por funcionarios públicos",
+                "Omisión ilegal de acto de su cargo",
+                "Omisión actos funcionales",
+                "Peculado"
+            ],
             "Región": "Lima Provincias"
         },
         {
-            "Delitos": "Omisión ilegal de acto de su cargo"
-        },
-        {
-            "Delitos": "Omisión actos funcionales"
-        },
-        {
-            "Delitos": "Peculado"
-        },
-        {
             "Nombre": "Omar Karim Chehade Moya",
-            "Partido Morado": "APP",
+            "Partido": "APP",
             "Delitos": "Corrupción de funcionario",
             "Región": "Lima"
         },
         {
             "Nombre": "Humberto Acuña Peralta",
-            "Partido Morado": "APP",
-            "Delitos": "Concusión",
+            "Partido": "APP",
+            "Delitos": [
+                "Concusión",
+                "Violencia y resistencia a la autoridad",
+                "Usurpación",
+                "Contra la tranquilidad pública",
+                "Contra la propiedad industrial",
+                "Omisión actos funcionales",
+                "Delito contra la administración pública",
+                "Delitos cometidos por funcionarios públicos",
+                "Contra los derechos de autor y Compositor (Plagio)",
+                "Contra el Patrimonio",
+                "Corrupción de funcionario",
+                "Contra la paz pública",
+                "Delito de Retardo de justicia",
+                "Omisión de asistencia familiar",
+                "Peculado",
+                "Contra la función jurisdiccional",
+                "Lavado de activos",
+                "Fraude en la administración de persona jurídica"
+            ],
             "Región": "Lambayeque"
         },
         {
-            "Delitos": "Violencia y resistencia a la autoridad"
-        },
-        {
-            "Delitos": "Usurpación"
-        },
-        {
-            "Delitos": "Contra la tranquilidad pública"
-        },
-        {
-            "Delitos": "Contra la propiedad industrial"
-        },
-        {
-            "Delitos": "Omisión actos funcionales"
-        },
-        {
-            "Delitos": "Delito contra la administración pública"
-        },
-        {
-            "Delitos": "Delitos cometidos por funcionarios públicos"
-        },
-        {
-            "Delitos": "Contra los derechos de autor y Compositor (Plagio)"
-        },
-        {
-            "Delitos": "Contra el Patrimonio"
-        },
-        {
-            "Delitos": "Corrupción de funcionario"
-        },
-        {
-            "Delitos": "Contra la paz pública"
-        },
-        {
-            "Delitos": "Delito de Retardo de justicia"
-        },
-        {
-            "Delitos": "Omisión de asistencia familiar"
-        },
-        {
-            "Delitos": "Peculado"
-        },
-        {
-            "Delitos": "Contra la función jurisdiccional"
-        },
-        {
-            "Delitos": "Lavado de activos"
-        },
-        {
-            "Delitos": "Fraude en la administración de persona jurídica"
-        },
-        {
             "Nombre": "Mario Javier Quispe Suárez",
-            "Partido Morado": "APP",
-            "Delitos": "Omisión de asistencia familiar",
+            "Partido": "APP",
+            "Delitos": [
+                "Omisión de asistencia familiar",
+                "Violación a la libertad al trabajo"
+            ],
             "Región": "Piura"
         },
         {
-            "Delitos": "Violación a la libertad al trabajo"
-        },
-        {
             "Nombre": "Walter Benavides Gavidia",
-            "Partido Morado": "APP",
-            "Delitos": "Concusión",
+            "Partido": "APP",
+            "Delitos": [
+                "Concusión",
+                "Peculado",
+                "Apropiación ilícita",
+                "Delitos cometidos por funcionarios públicos"
+            ],
             "Región": "Cajamarca"
-        },
-        {
-            "Delitos": "Peculado"
-        },
-        {
-            "Delitos": "Apropiación ilícita"
-        },
-        {
-            "Delitos": "Delitos cometidos por funcionarios públicos"
         },
         {
             "Nombre": "Moises Gonzalez Cruz",
-            "Partido Morado": "APP",
-            "Delitos": "Homicidio",
+            "Partido": "APP",
+            "Delitos": [
+                "Homicidio",
+                "Abuso de autoridad"
+            ],
             "Región": "Cajamarca"
         },
         {
-            "Delitos": "Abuso de autoridad"
-        },
-        {
             "Nombre": "Fernando Meléndez Celis",
-            "Partido Morado": "APP",
-            "Delitos": "Concusión",
+            "Partido": "APP",
+            "Delitos": [
+                "Concusión",
+                "Abuso de autoridad",
+                "Concusión",
+                "Apropiación ilícita común",
+                "Violación a la libertad al trabajo-coacción laboral",
+                "Contaminación del ambiente culposo",
+                "Lesiones (culposas)",
+                "Contra la vida/el cuerpo y la salud",
+                "Responsabilidad de funcionario público por otorgamiento ilegal",
+                "Lavado de activos",
+                "Contra los derechos al sufragio",
+                "Tráfico ilícito de drogas",
+                "Daño agravado",
+                "Homicidio (culposo)"
+            ],
             "Región": "Loreto"
-        },
-        {
-            "Delitos": "Abuso de autoridad"
-        },
-        {
-            "Delitos": "Concusión"
-        },
-        {
-            "Delitos": "Apropiación ilícita común"
-        },
-        {
-            "Delitos": "Violación a la libertad al trabajo-coacción laboral"
-        },
-        {
-            "Delitos": "Contaminación del ambiente culposo"
-        },
-        {
-            "Delitos": "Lesiones (culposas)"
-        },
-        {
-            "Delitos": "Contra la vida/el cuerpo y la salud"
-        },
-        {
-            "Delitos": "Responsabilidad de funcionario público po otorgamiento ilegal"
-        },
-        {
-            "Delitos": "Lavado de activos"
-        },
-        {
-            "Delitos": "Contra los derechos al sufragio"
-        },
-        {
-            "Delitos": "Tráfico ilícito de drogas"
-        },
-        {
-            "Delitos": "Daño agravado"
-        },
-        {
-            "Delitos": "Homicidio (culposo)"
         },
         {
             "Nombre": "Eduardo Geovanni Acate Coronel",
-            "Partido Morado": "APP",
-            "Delitos": "Maltrato físico",
+            "Partido": "APP",
+            "Delitos": [
+                "Maltrato físico",
+                "Contra los medios de transportes y comunicaciones"
+            ],
             "Región": "Loreto"
         },
         {
-            "Delitos": "Contra los medios de transportes y comunicaciones"
-        },
-        {
             "Nombre": "Robertina Santillana Paredes",
-            "Partido Morado": "APP",
+            "Partido": "APP",
             "Delitos": "Contra la función jurisdiccional",
             "Región": "San Martín"
         },
         {
             "Nombre": "Alexander Hidalgo Zamalloa",
-            "Partido Morado": "APP",
-            "Delitos": "Peculado",
+            "Partido": "APP",
+            "Delitos": [
+                "Peculado",
+                "Estafa"
+            ],
             "Región": "Cusco"
         },
         {
-            "Delitos": "Estafa"
-        },
-        {
             "Nombre": "Cesar Augusto Combina Salvatierra",
-            "Partido Morado": "APP",
-            "Delitos": "Usurpación agravada",
+            "Partido": "APP",
+            "Delitos": [
+                "Usurpación agravada",
+                "Lavado de activos"
+            ],
             "Región": "Junín"
         },
         {
-            "Delitos": "Lavado de activos"
-        },
-        {
             "Nombre": "Jhosept Amado Pérez Mimbela",
-            "Partido Morado": "APP",
-            "Delitos": "Abuso de autoridad",
+            "Partido": "APP",
+            "Delitos": [
+                "Abuso de autoridad",
+                "Contra los recursos naturales y medio ambiente",
+                "Delito de peligro común",
+                "Coacción",
+                "Daños",
+                "Contaminación y propagación",
+                "Robo",
+                "Apropiación ilícita",
+                "Peculado",
+                "Lavado de activos",
+                "Peculado",
+                "Lavado de activos",
+            ],
             "Región": "Ancash"
         },
         {
-            "Delitos": "Contra los recursos naturales y medio ambiente"
-        },
-        {
-            "Delitos": "Delito de peligro común"
-        },
-        {
-            "Delitos": "Coacción"
-        },
-        {
-            "Delitos": "Daños"
-        },
-        {
-            "Delitos": "Contaminación y propagación"
-        },
-        {
-            "Delitos": "Robo"
-        },
-        {
-            "Delitos": "Apropiación ilícita"
-        },
-        {
-            "Delitos": "Peculado"
-        },
-        {
-            "Delitos": "Lavado de activos"
-        },
-        {
             "Nombre": "Napoleon Puño Lecarnaque",
-            "Partido Morado": "APP",
-            "Delitos": "Usurpación de autoridad",
+            "Partido": "APP",
+            "Delitos": [
+                "Usurpación de autoridad",
+                "Concusión",
+                "Violencia y resistencia a la autoridad",
+                "Falsedad ideológica",
+                "Peculado",
+                "Contaminación y propagación"
+            ],
             "Región": "Tumbes"
         },
         {
-            "Delitos": "Concusión"
-        },
-        {
-            "Delitos": "Violencia y resistencia a la autoridad"
-        },
-        {
-            "Delitos": "Falsedad ideológica"
-        },
-        {
-            "Delitos": "Peculado"
-        },
-        {
-            "Delitos": "Contaminación y propagación"
-        },
-        {
             "Nombre": "Luis Alberto Valdez Farías",
-            "Partido Morado": "APP",
-            "Delitos": "Falsedad ideológica",
+            "Partido": "APP",
+            "Delitos": [
+                "Falsedad ideológica",
+                "Fraude en la administración de persona jurídica",
+                "Resistencia o desobediencia a la autoridad",
+                "Omisión actos funcionales",
+                "Violencia y resistencia a la autoridad",
+                "Delitos cometidos por funcionarios públicos",
+                "Delito contra la administración pública",
+                "Usurpación agravada",
+                "Abuso de autoridad",
+                "Daño simple",
+                "Exposición a persona en peligro",
+                "Concusión",
+                "Elaboración y comercio clandestino de productos",
+                "Corrupción de funcionario",
+                "Defraudación"
+            ],
             "Región": "La Libertad"
-        },
-        {
-            "Delitos": "Fraude en la administración de persona jurídica"
-        },
-        {
-            "Delitos": "Resistencia o desobediencia a la autoridad"
-        },
-        {
-            "Delitos": "Omisión actos funcionales"
-        },
-        {
-            "Delitos": "Violencia y resistencia a la autoridad"
-        },
-        {
-            "Delitos": "Delitos cometidos por funcionarios públicos"
-        },
-        {
-            "Delitos": "Delito contra la administración pública"
-        },
-        {
-            "Delitos": "Usurpación agravada"
-        },
-        {
-            "Delitos": "Abuso de autoridad"
-        },
-        {
-            "Delitos": "Daño simple"
-        },
-        {
-            "Delitos": "Exposición a persona en peligro"
-        },
-        {
-            "Delitos": "Concusión"
-        },
-        {
-            "Delitos": "Elaboración y comercio clandestino de productos"
-        },
-        {
-            "Delitos": "Corrupción de funcionario"
-        },
-        {
-            "Delitos": "Defraudación"
         },
         {
             "Nombre": "Tania Rosalia Rodas Malca",
-            "Partido Morado": "APP",
-            "Delitos": "Contra la fe pública",
+            "Partido": "APP",
+            "Delitos": [
+                "Contra la fe pública",
+                "Lesiones (culposas)"
+            ],
             "Región": "La Libertad"
         },
         {
-            "Delitos": "Lesiones (culposas)"
-        },
-        {
             "Nombre": "Martha Gladys Chávez Cossio",
-            "Partido Morado": "Fuerza Popular",
+            "Partido": "Fuerza Popular",
             "Delitos": "Abuso de autoridad",
             "Región": "Lima"
         },
         {
             "Nombre": "Diethell Columbus Murata",
-            "Partido Morado": "Fuerza Popular",
-            "Delitos": "Abuso de autoridad",
+            "Partido": "Fuerza Popular",
+            "Delitos": [
+                "Abuso de autoridad",
+                "Usurpación de autoridad, títulos y honores"
+            ],
             "Región": "Lima"
-        },
-        {
-            "Delitos": "Usurpación de autoridad, títulos y honores"
         },
         {
             "Nombre": "Carlos Fernando Mesía Ramirez",
-            "Partido Morado": "Fuerza Popular",
-            "Delitos": "Fraude procesal",
+            "Partido": "Fuerza Popular",
+            "Delitos": [
+                "Fraude procesal",
+                "Contra la función jurisdiccional",
+                "Secuestro"
+            ],
             "Región": "Lima"
         },
         {
-            "Delitos": "Contra la función jurisdiccional"
-        },
-        {
-            "Delitos": "Secuestro"
-        },
-        {
             "Nombre": "Marcos Antonio Pichilingue Gomez",
-            "Partido Morado": "Fuerza Popular",
-            "Delitos": "Apropiación ilícita",
+            "Partido": "Fuerza Popular",
+            "Delitos": [
+                "Apropiación ilícita",
+                "Estafa"
+            ],
             "Región": "Callao"
         },
         {
-            "Delitos": "Estafa"
-        },
-        {
             "Nombre": "Rita Elena Ayasta De Díaz",
-            "Partido Morado": "Fuerza Popular",
-            "Delitos": "Delito contra la administración pública",
+            "Partido": "Fuerza Popular",
+            "Delitos": [
+                "Delito contra la administración pública",
+                "Concusión",
+                "Apropiación Ilícita",
+                "Abuso de Autoridad",
+                "Usurpación",
+                "Violación a la libertad de trabajo",
+                "Contra la paz pública",
+                "Daños"
+            ],
             "Región": "Lambayeque"
         },
         {
-            "Delitos": "Concusión"
-        },
-        {
-            "Delitos": "Apropiación Ilícita"
-        },
-        {
-            "Delitos": "Abuso de Autoridad"
-        },
-        {
-            "Delitos": "Usurpación"
-        },
-        {
-            "Delitos": "Violación a la libertad de trabajo"
-        },
-        {
-            "Delitos": "Contra la paz pública"
-        },
-        {
-            "Delitos": "Daños"
-        },
-        {
             "Nombre": "Mártires Lizana Santos",
-            "Partido Morado": "Fuerza Popular",
-            "Delitos": "Concusión",
+            "Partido": "Fuerza Popular",
+            "Delitos": [
+                "Concusión",
+                "Omisión de asistencia familiar",
+                "Violación de domicilio",
+                "Abuso de autoridad"
+            ],
             "Región": "Piura"
         },
         {
-            "Delitos": "Omisión de asistencia familiar"
-        },
-        {
-            "Delitos": "Violación de domicilio"
-        },
-        {
-            "Delitos": "Abuso de autoridad"
-        },
-        {
             "Nombre": "Erwin Tito Ortega",
-            "Partido Morado": "Fuerza Popular",
-            "Delitos": "Contra la fe pública",
+            "Partido": "Fuerza Popular",
+            "Delitos": [
+                "Contra la fe pública",
+                "Daños",
+                "Homicidio culposo",
+                "Alimentos",
+                "Abuso de autoridad",
+                "Falsificación documentaria"
+            ],
             "Región": "Junín"
         },
         {
-            "Delitos": "Daños"
-        },
-        {
-            "Delitos": "Homicidio culposo"
-        },
-        {
-            "Delitos": "Alimentos"
-        },
-        {
-            "Delitos": "Abuso de autoridad"
-        },
-        {
-            "Delitos": "Falsificación documentaria"
-        },
-        {
             "Nombre": "Miguel Angel Vivanco Reyes",
-            "Partido Morado": "Fuerza Popular",
-            "Delitos": "Lesiones (culposas)",
+            "Partido": "Fuerza Popular",
+            "Delitos": [
+                "Lesiones (culposas)",
+                "Maltrato físico",
+                "Delito de peligro común"
+            ],
             "Región": "La Libertad"
         },
         {
-            "Delitos": "Maltrato físico"
-        },
-        {
-            "Delitos": "Delito de peligro común"
-        },
-        {
             "Nombre": "Liliana Angélica Pinedo Achaca",
-            "Partido Morado": "Fuerza Popular",
+            "Partido": "Fuerza Popular",
             "Delitos": "Robo agravado",
             "Región": "Lima Provincias"
         },
         {
             "Nombre": "Wilmer Cayllahua Barrientos",
-            "Partido Morado": "FREPAP",
+            "Partido": "FREPAP",
             "Delitos": "Omisión de asistencia familiar",
             "Región": "Lima"
         },
         {
             "Nombre": "María Teresa Céspedes Cárdenas",
-            "Partido Morado": "FREPAP",
+            "Partido": "FREPAP",
             "Delitos": "Violencia y resistencia a la autoridad",
             "Región": "Lima"
         },
         {
             "Nombre": "Juan De Dios Huamán Champi",
-            "Partido Morado": "FREPAP",
+            "Partido": "FREPAP",
             "Delitos": "Delito de peligro común (imprudente conducción vehicular)",
             "Región": "Cusco"
         },
         {
             "Nombre": "Raul Machaca Mamani",
-            "Partido Morado": "FREPAP",
-            "Delitos": "Contaminación del ambiente doloso",
+            "Partido": "FREPAP",
+            "Delitos": [
+                "Contaminación del ambiente doloso",
+                "Minería ilegal (culposo)"
+            ],
             "Región": "Tacna"
-        },
-        {
-            "Delitos": "Minería ilegal (culposo)"
         },
         {
             "Nombre": "José Alejandro Vega Antonio",
-            "Partido Morado": "Unión por el Perú",
-            "Delitos": "Contra la función jurisdiccional",
+            "Partido": "Unión por el Perú",
+            "Delitos": [
+                "Contra la función jurisdiccional",
+                "Contra la fe pública",
+                "Violencia y resistencia a la autoridad",
+                "Abuso de autoridad",
+                "Contra el patrimonio"
+            ],
             "Región": "Lima"
-        },
-        {
-            "Delitos": "Contra la fe pública"
-        },
-        {
-            "Delitos": "Violencia y resistencia a la autoridad"
-        },
-        {
-            "Delitos": "Abuso de autoridad"
-        },
-        {
-            "Delitos": "Contra el patrimonio"
         },
         {
             "Nombre": "Ruben Pantoja Calvo",
-            "Partido Morado": "Unión por el Perú",
-            "Delitos": "Concusión",
+            "Partido": "Unión por el Perú",
+            "Delitos": [
+                "Concusión",
+                "Peculado",
+                "Coacción"
+            ],
             "Región": "Cusco"
         },
         {
-            "Delitos": "Peculado"
-        },
-        {
-            "Delitos": "Coacción"
-        },
-        {
             "Nombre": "Héctor Simon Maquera Chavez",
-            "Partido Morado": "Unión por el Perú",
-            "Delitos": "Omisión de asistencia familiar",
+            "Partido": "Unión por el Perú",
+            "Delitos": [
+                "Omisión de asistencia familiar",
+                "Contra la seguridad pública",
+                "Sustracción o arrebato de armas de fuego",
+                "Contra poder del estado y orden constitucional"
+            ],
             "Región": "Tacna"
         },
         {
-            "Delitos": "Contra la seguridad pública"
-        },
-        {
-            "Delitos": "Sustracción o arrebato de armas de fuego"
-        },
-        {
-            "Delitos": "Contra poder del estado y orden constitucional"
-        },
-        {
             "Nombre": "Edgar Arnold Alarcón Tejada",
-            "Partido Morado": "Unión por el Perú",
-            "Delitos": "Defraudación de rentas de aduana",
+            "Partido": "Unión por el Perú",
+            "Delitos": [
+                "Defraudación de rentas de aduana",
+                "Usurpación de autoridad, títulos y honores",
+                "Contra la fé pública",
+                "Estafa",
+                "Lavado de activos",
+                "Peculado",
+                "Violencia y resistencia a la autoridad",
+                "Contra la función jurisdiccional",
+                "Exposición a persona en peligro",
+                "Lavado de activos",
+                "Omisión o demora de actos funcionales",
+                "Coacción"
+            ],
             "Región": "Arequipa"
-        },
-        {
-            "Delitos": "Usurpación de autoridad, títulos y honores"
-        },
-        {
-            "Delitos": "Contra la fé pública"
-        },
-        {
-            "Delitos": "Estafa"
-        },
-        {
-            "Delitos": "Lavado de activos"
-        },
-        {
-            "Delitos": "Peculado"
-        },
-        {
-            "Delitos": "Violencia y resistencia a la autoridad"
-        },
-        {
-            "Delitos": "Contra la función jurisdiccional"
-        },
-        {
-            "Delitos": "Exposición a persona en peligro"
-        },
-        {
-            "Delitos": "Lavado de activos"
-        },
-        {
-            "Delitos": "Omisión o demora de actos funcionales"
-        },
-        {
-            "Delitos": "Coacción"
         },
         {
             "Nombre": "Hipolito Chaiña Contreras",
-            "Partido Morado": "Unión por el Perú",
-            "Delitos": "Usurpación",
+            "Partido": "Unión por el Perú",
+            "Delitos": [
+                "Usurpación",
+                "Contencioso administrativo",
+                "Usurpación",
+                "Maltrato físico",
+                "Lesiones",
+                "Contra la función jurisdiccional"
+            ],
             "Región": "Arequipa"
         },
         {
-            "Delitos": "Contencioso administrativo"
-        },
-        {
-            "Delitos": "Usurpación"
-        },
-        {
-            "Delitos": "Maltrato físico"
-        },
-        {
-            "Delitos": "Lesiones"
-        },
-        {
-            "Delitos": "Contra la función jurisdiccional"
-        },
-        {
             "Nombre": "Posemoscrowte Irrhoscopt Chagua Payano",
-            "Partido Morado": "Unión por el Perú",
-            "Delitos": "Homicidio",
+            "Partido": "Unión por el Perú",
+            "Delitos": [
+                "Homicidio",
+                "Daños",
+                "Secuestro",
+                "Sustracción o arrebato de armas de fuego",
+                "Rebelión",
+                "Contra la seguridad pública"
+            ],
             "Región": "Huancavelica"
         },
         {
-            "Delitos": "Daños"
-        },
-        {
-            "Delitos": "Secuestro"
-        },
-        {
-            "Delitos": "Sustracción o arrebato de armas de fuego"
-        },
-        {
-            "Delitos": "Rebelión"
-        },
-        {
-            "Delitos": "Contra la seguridad pública"
-        },
-        {
             "Nombre": "Roberto Carlos Chavarría Vilcatoma",
-            "Partido Morado": "Unión por el Perú",
-            "Delitos": "Contra la seguridad pública",
+            "Partido": "Unión por el Perú",
+            "Delitos": [
+                "Contra la seguridad pública",
+                "Sustracción o arrebato de armas de fuego",
+                "Antecedentes por secuestro",
+                "Secuestro",
+                "Delito",
+                "Contra poder del estado y orden constitucional"
+            ],
             "Región": "Junín"
         },
         {
-            "Delitos": "Sustracción o arrebato de armas de fuego"
-        },
-        {
-            "Delitos": "Antecedentes por secuestro"
-        },
-        {
-            "Delitos": "Secuestro"
-        },
-        {
-            "Delitos": "Delito"
-        },
-        {
-            "Delitos": "Contra poder del estado y orden constitucional"
-        },
-        {
             "Nombre": "Daniel Belizario Urresti Elera",
-            "Partido Morado": "Podemos Perú",
-            "Delitos": "Usurpación",
+            "Partido": "Podemos Perú",
+            "Delitos": [
+                "Usurpación",
+                "Contaminación del ambiente",
+                "Coacción",
+                "Homicidio calificado (crueldad)",
+                "Robo (simple)",
+                "Fraude en la administración de persona jurídica",
+                "Daño agravado (bienes de valor)",
+                "Robo agravado (dos o más personas)",
+                "Abuso de autoridad"
+            ],
             "Región": "Lima"
-        },
-        {
-            "Delitos": "Contaminación del ambiente"
-        },
-        {
-            "Delitos": "Coacción"
-        },
-        {
-            "Delitos": "Homicidio calificado (crueldad)"
-        },
-        {
-            "Delitos": "Robo (simple)"
-        },
-        {
-            "Delitos": "Fraude en la administración de persona jurídica"
-        },
-        {
-            "Delitos": "Daño agravado (bienes de valor)"
-        },
-        {
-            "Delitos": "Robo agravado (dos o más personas)"
-        },
-        {
-            "Delitos": "Abuso de autoridad"
         },
         {
             "Nombre": "Yeremi Aron Espinoza Velarde",
-            "Partido Morado": "Podemos Perú",
-            "Delitos": "Delitos contra la fe pública",
+            "Partido": "Podemos Perú",
+            "Delitos": [ 
+                "Delitos contra la fe pública",
+                "Delito contra la seguridad pública",
+                "Abuso de autoridad",
+                "Falsificación documentaria",
+                "Apropiación ilícita",
+                "Estafa",
+                "Violación de domicilio",
+                "Contra la función jurisdiccional",
+                "Libramiento indebidos (cheques sin fondos)"
+            ],
             "Región": "Lima"
         },
         {
-            "Delitos": "Delito contra la seguridad pública"
-        },
-        {
-            "Delitos": "Abuso de autoridad"
-        },
-        {
-            "Delitos": "Falsificación documentaria"
-        },
-        {
-            "Delitos": "Apropiación ilícita"
-        },
-        {
-            "Delitos": "Estafa"
-        },
-        {
-            "Delitos": "Violación de domicilio"
-        },
-        {
-            "Delitos": "Contra la función jurisdiccional"
-        },
-        {
-            "Delitos": "Libramiento indebidos (cheques sin fondos)"
-        },
-        {
             "Nombre": "José Luis Luna Morales",
-            "Partido Morado": "Podemos Perú",
+            "Partido": "Podemos Perú",
             "Delitos": "Apropiación ilícita común",
             "Región": "Lima"
         },
         {
             "Nombre": "Luis Felipe Castillo Oliva",
-            "Partido Morado": "Podemos Perú",
+            "Partido": "Podemos Perú",
             "Delitos": "Lesiones",
             "Región": "Lima"
         },
         {
             "Nombre": "María Teresa Cabrera Vega",
-            "Partido Morado": "Podemos Perú",
+            "Partido": "Podemos Perú",
             "Delitos": "Abuso de autoridad",
             "Región": "Lima"
         },
         {
             "Nombre": "Robinson Dociteo Gupioc Rios",
-            "Partido Morado": "Podemos Perú",
-            "Delitos": "Contra la vida/el cuerpo y la salud",
+            "Partido": "Podemos Perú",
+            "Delitos": [
+                "Contra la vida/el cuerpo y la salud",
+                "Lesiones (leves)"
+            ],
             "Región": "Lima"
-        },
-        {
-            "Delitos": "Lesiones (leves)"
         },
         {
             "Nombre": "Carlos Alberto Almeri Veramendi",
-            "Partido Morado": "Podemos Perú",
-            "Delitos": "Lesiones",
+            "Partido": "Podemos Perú",
+            "Delitos": [
+                "Lesiones",
+                "Lesiones leves"
+            ],
             "Región": "Lima Provincias"
         },
         {
-            "Delitos": "Lesiones leves"
-        },
-        {
             "Nombre": "Guillermo Alejandro Antonio Aliaga Pajares",
-            "Partido Morado": "Somos Perú",
-            "Delitos": "Contra los recursos naturales y medio ambiente",
+            "Partido": "Somos Perú",
+            "Delitos": [
+                "Contra los recursos naturales y medio ambiente",
+                "Violencia y resistencia a la autoridad",
+                "Contaminación",
+                "Contra la fé pública",
+                "Responsabilidad de servidor público por otorgamiento ilegal derechos",
+                "Falsificación de documentos en general"
+            ],
             "Región": "Lima"
         },
         {
-            "Delitos": "Violencia y resistencia a la autoridad"
-        },
-        {
-            "Delitos": "Contaminación"
-        },
-        {
-            "Delitos": "Contra la fé pública"
-        },
-        {
-            "Delitos": "Responsabilidad de servidor público por otorgamiento ilegal derechos"
-        },
-        {
-            "Delitos": "Falsificación de documentos en general"
-        },
-        {
             "Nombre": "Luis Reymundo Dioses Guzmán",
-            "Partido Morado": "Somos Perú",
-            "Delitos": "Peculado - Malversación",
+            "Partido": "Somos Perú",
+            "Delitos": [
+                "Peculado - Malversación",
+                "Usurpación de autoridad, título y honores",
+                "Delito contra la administración pública",
+                "Abuso de autoridad",
+                "Contra los derechos de autor y compositor"
+            ],
             "Región": "Piura"
         },
         {
-            "Delitos": "Usurpación de autoridad, título y honores"
-        },
-        {
-            "Delitos": "Delito contra la administración pública"
-        },
-        {
-            "Delitos": "Abuso de autoridad"
-        },
-        {
-            "Delitos": "Contra los derechos de autor y compositor"
-        },
-        {
             "Nombre": "Grimaldo Vásquez Tan",
-            "Partido Morado": "Somos Perú",
-            "Delitos": "Delitos cometidos por funcionarios públicos",
+            "Partido": "Somos Perú",
+            "Delitos": [
+                "Delitos cometidos por funcionarios públicos",
+                "Contra los recursos naturales",
+                "Concusión",
+                "Contaminación del ambiente",
+                "Delito contra los recursos naturales y medio ambiente"
+            ],
             "Región": "Amazonas"
         },
         {
-            "Delitos": "Contra los recursos naturales"
-        },
-        {
-            "Delitos": "Concusión"
-        },
-        {
-            "Delitos": "Contaminación del ambiente"
-        },
-        {
-            "Delitos": "Delito contra los recursos naturales y medio ambiente"
-        },
-        {
             "Nombre": "Cesar Gonzales Tuanama",
-            "Partido Morado": "Somos Perú",
-            "Delitos": "Omisión de asistencia familiar",
+            "Partido": "Somos Perú",
+            "Delitos": [
+                "Omisión de asistencia familiar",
+                "Recepción agravada",
+                "Peculado",
+                "Maltrato psicológico"
+            ],
             "Región": "Ucayali"
         },
         {
-            "Delitos": "Recepción agravada"
-        },
-        {
-            "Delitos": "Peculado"
-        },
-        {
-            "Delitos": "Maltrato psicológico"
-        },
-        {
             "Nombre": "Hirma Norma Alencastre Miranda",
-            "Partido Morado": "Somos Perú",
+            "Partido": "Somos Perú",
             "Delitos": "Contra los recursos naturales y medio ambiente",
             "Región": "Áncash"
         },
         {
             "Nombre": "Betto Barrionuevo Romero",
-            "Partido Morado": "Somos Perú",
-            "Delitos": "Omisión ilegal de acto de su cargo",
+            "Partido": "Somos Perú",
+            "Delitos": [
+                "Omisión ilegal de acto de su cargo",
+                "Usurpación",
+                "Contra los derechos al sufragio",
+                "Delitos cometidos por funcionarios públicos",
+                "Hurto agravado",
+                "Contra la paz pública",
+                "Delito contra la administración de justicia",
+                "Falsificación de documentos en general",
+                "Violencia y resistencia a la autoridad"
+            ],
             "Región": "Áncash"
         },
         {
-            "Delitos": "Usurpación"
-        },
-        {
-            "Delitos": "Contra los derechos al sufragio"
-        },
-        {
-            "Delitos": "Delitos cometidos por funcionarios públicos"
-        },
-        {
-            "Delitos": "Hurto agravado"
-        },
-        {
-            "Delitos": "Contra la paz pública"
-        },
-        {
-            "Delitos": "Delito contra la administración de justicia"
-        },
-        {
-            "Delitos": "Falsificación de documentos en general"
-        },
-        {
-            "Delitos": "Violencia y resistencia a la autoridad"
-        },
-        {
             "Nombre": "Gino Francisco Costa Santolalla",
-            "Partido Morado": "Partido Morado",
-            "Delitos": "Contra la paz pública",
+            "Partido": "Partido Morado",
+            "Delitos": [
+                "Contra la paz pública",
+                "Violencia y resistencia a la autoridad"
+            ],
             "Región": "Lima"
-        },
-        {
-            "Delitos": "Violencia y resistencia a la autoridad"
         },
         {
             "Nombre": "Carolina Lizárraga Houghton",
-            "Partido Morado": "Partido Morado",
-            "Delitos": "Prevaricato",
+            "Partido": "Partido Morado",
+            "Delitos": [
+                "Prevaricato",
+                "Abuso de autoridad"
+            ],
             "Región": "Lima"
         },
         {
-            "Delitos": "Abuso de autoridad"
-        },
-        {
             "Nombre": "Angélica María Palomino Saavedra",
-            "Partido Morado": "Partido Morado",
+            "Partido": "Partido Morado",
             "Delitos": "Contra la paz pública",
             "Región": "Piura"
         },
         {
             "Nombre": "Jose Antonio Núñez Salas",
-            "Partido Morado": "Partido Morado",
+            "Partido": "Partido Morado",
             "Delitos": "Contra la fé pública",
             "Región": "Arequipa"
         },
         {
             "Nombre": "Cindy Arlette Contreras Bautista",
-            "Partido Morado": "Frente Amplio",
+            "Partido": "Frente Amplio",
             "Delitos": "Contra la fé pública",
             "Región": "Lima"
         },
         {
             "Nombre": "Jose Luis Ancalle Gutierrez",
-            "Partido Morado": "Frente Amplio",
+            "Partido": "Frente Amplio",
             "Delitos": "Alimentos",
             "Región": "Arequipa"
         },
         {
             "Nombre": "Lenin Fernando Bazán Villanueva",
-            "Partido Morado": "Frente Amplio",
+            "Partido": "Frente Amplio",
             "Delitos": "Grave perturbación de la tranquilidad pública",
             "Región": "La Libertad"
         },
         {
             "Nombre": "Carlos Enrique Fernández Chacón",
-            "Partido Morado": "Frente Amplio",
+            "Partido": "Frente Amplio",
             "Delitos": "Antecedentes contra la seguridad",
             "Región": "Lima"
         },
         {
             "Nombre": "Rennan Samuel Espinoza Rosales",
-            "Partido Morado": "No agrupado",
-            "Delitos": "Contra la paz pública",
+            "Partido": "No agrupado",
+            "Delitos": [
+                "Contra la paz pública",
+                "Violencia y resistencia a la autoridad;"
+            ],
             "Región": "Lima"
-        },
-        {
-            "Delitos": "Violencia y resistencia a la autoridad;"
         }
     ]
 }
