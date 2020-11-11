@@ -6,6 +6,8 @@
     <meta name="author" content="Frank Facundo">
     <title>No Mas Corruption</title>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
     <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/carousel/">
 
     <!-- Bootstrap core CSS -->
@@ -53,7 +55,7 @@
               <a class="nav-link" href="investigacion.html">Investigación</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+              <a class="nav-link" href="votacion/index.html" tabindex="-1">Grafico de votacion</a>
             </li>
           </ul>
           <!--
@@ -88,7 +90,7 @@
 
 <script>
   let request = new XMLHttpRequest();
-  request.open("GET","https://raw.githubusercontent.com/FrankFacundo/NoMasCorrupcion/main/data/delitos.json",true);
+  request.open("GET","https://raw.githubusercontent.com/FrankFacundo/NoMasCorrupcion/main/data/investigaciones.json",true);
   request.send();
   let text = ""
   console.log("2**************")
@@ -102,11 +104,23 @@
           reject('Fail renderJSON');
           console.log("5**************")
       }
-  console.log("6**************")
-  console.log(typeof text)
-  console.log(text.Hoja1)
-  //document.getElementById("textarea").textContent = text.Hoja1
-  //console.log(text.Hoja1[1].Nombre)
+      console.log("6**************")
+      console.log(typeof text)
+      console.log(text.Hoja1)
+      //document.getElementById("textarea").textContent = text.Hoja1
+      //document.getElementById("textarea").textContent = JSON.stringify(text.Hoja1, undefined, 2);
+      //console.log(text.Hoja1[1].Nombre)
+
+      var resData = {"key1":"value","key2":"value"};
+
+      var table_str = '<table><thead><tr><th>Nombre</th><th>Partido</th><th>Delitos</th><th>Region</th></tr></thead>';
+          table_str += '<tbody>';
+      $.each(text.Hoja1, function(Numero, Datos){
+          //table_str +='<tr><td>'+Datos.Nombre+'</td><td>'+Datos.Partido+'</td><td>'+Datos.Delitos+'</td><td>'+Datos.Región+'</td></tr>';
+          table_str +='<tr><td>'+Datos.Nombre+'</td><td>'+Datos.Partido+'</td><td>'+Datos.Región+'</td><td>'+Datos.Delitos+'</td></tr><tr><td><tr><td><tr><td><tr><td>';
+      });
+      $("#textarea").html(table_str);
+      console.log(table_str);
   }
   console.log("7**************")
   
